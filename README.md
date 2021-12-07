@@ -12,7 +12,7 @@ You can click [@idraw/studio](https://idraw.js.org/studio) to experience the use
 - 目前在忙着开发 [idraw.js](https://github.com/idrawjs/idraw/),  详情可预览 [@idraw/studio](https://idraw.js.org/studio)
 
 - 我的开源电子书
-  - [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note)(不定时更新)🌶🌶🌶
+  - [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note)(不定时更新)🌶
   - [《Koa2进阶学习笔记》](https://github.com/chenshenhai/koa2-note)
   - [《Koa.js 设计模式-学习笔记》](https://github.com/chenshenhai/koajs-design-note)
   - [《Rollup.js 实战学习笔记》](https://github.com/chenshenhai/rollupjs-note)
