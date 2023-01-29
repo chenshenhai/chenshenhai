@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+![profile views](https://komarev.com/ghpvc/?username=chenshenhai&style=plastic)
 
 I am the creator of the open source JavaScript framework [iDraw.js](https://github.com/idrawjs/idraw/).
 
