@@ -9,7 +9,7 @@ You can click [@idraw/studio](https://idraw.js.org/studio) to experience the use
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chenshenhai&show_icons=true&icon_color=498de0&text_color=498de0&bg_color=ffffff&hide_title=true" />
 
-大深海，野生程序员一枚，闲暇时讲点技术的故事。[chenshenhai.com](https://chenshenhai.com)
+大深海，野生程序员一枚，闲暇时讲点技术的故事。 
 
 - 目前在忙着开发 [idraw.js](https://github.com/idrawjs/idraw/),  详情可预览 [@idraw/studio](https://idraw.js.org/studio)
 
