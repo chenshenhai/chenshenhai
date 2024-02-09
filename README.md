@@ -11,7 +11,7 @@ You can click [@idraw/studio](https://idrawjs.com/studio) to experience the use 
 
 大深海，野生程序员一枚，闲暇时讲点技术的故事。 
 
-- 目前在忙着开发 [idraw.js](https://github.com/idrawjs/idraw/),  详情可预览 [@idraw/studio](https://idraw.js.org/studio)
+- 目前在忙着开发 [idraw.js](https://github.com/idrawjs/idraw/),  详情可预览 [@idraw/studio](https://idrawjs.com/studio)
 
 - 我的开源电子书
   - [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note)(不定时更新)🌶
