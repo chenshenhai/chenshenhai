@@ -5,6 +5,11 @@
 I am the creator of the open source JavaScript framework [iDraw.js](https://github.com/idrawjs/idraw/).
 
 You can click [@idraw/studio](https://idrawjs.com/studio) to experience the use of iDraw.js .
+
+If you think my project is helpful to you, just give me a cup of coffee!
+
+<a href="https://www.buymeacoffee.com/chenshenhai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <hr/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chenshenhai&show_icons=true&icon_color=498de0&text_color=498de0&bg_color=ffffff&hide_title=true" />
