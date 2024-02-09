@@ -4,7 +4,7 @@
 
 I am the creator of the open source JavaScript framework [iDraw.js](https://github.com/idrawjs/idraw/).
 
-You can click [@idraw/studio](https://idraw.js.org/studio) to experience the use of iDraw.js .
+You can click [@idraw/studio](https://idrawjs.com/studio) to experience the use of iDraw.js .
 <hr/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chenshenhai&show_icons=true&icon_color=498de0&text_color=498de0&bg_color=ffffff&hide_title=true" />
