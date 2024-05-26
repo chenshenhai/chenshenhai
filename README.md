@@ -19,9 +19,9 @@ If you think my project is helpful to you, just give me a cup of coffee!
 - 目前在忙着开发 [idraw.js](https://github.com/idrawjs/idraw/),  详情可预览 [@idraw/studio](https://idrawjs.com/studio)
 
 - 我的开源电子书
-  - [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note)(不定时更新)🌶
   - [《Koa2进阶学习笔记》](https://github.com/chenshenhai/koa2-note)
   - [《Koa.js 设计模式-学习笔记》](https://github.com/chenshenhai/koajs-design-note)
   - [《Rollup.js 实战学习笔记》](https://github.com/chenshenhai/rollupjs-note)
   - [《Canvas开发笔记》](https://github.com/chenshenhai/canvas-note) (不定时更新)
-  - [《Egg.js 深入浅出学习笔记》](https://github.com/chenshenhai/eggjs-note)(暂时停更)
+  - [《Egg.js 深入浅出学习笔记》](https://github.com/chenshenhai/eggjs-note)(已停更)
+  - [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note)(已停更)
