@@ -12,7 +12,7 @@ If you think my project is helpful to you, just give me a cup of coffee!
 
 <hr/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chenshenhai&show_icons=true&icon_color=498de0&text_color=498de0&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://ghstats.dev/api/card?username=chenshenhai&hide_title=true&hide=commits%2Cissues%2Cactive_day%2Cweek%2Ctrend%2Chours" />
 
 大深海，野生程序员一枚，闲暇时讲点技术的故事。 
 
